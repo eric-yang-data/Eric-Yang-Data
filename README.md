@@ -1,5 +1,7 @@
-## Hi there 👋
-
+#Hi, I'm Eric!
+### Data Analyst | Python, SQL, EXCEL, and Power BI
+I love finding useful business insights drawn from data! Experience in data cleaning,
+statistical modeling, data transforming, and creating insightful dashboards!
 <!--
 **eric-yang-data/Eric-Yang-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
