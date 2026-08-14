@@ -1,4 +1,5 @@
-#Hi, I'm Eric!
+# Hi, I'm Eric!
+--- 
 ### Data Analyst | Python, SQL, EXCEL, and Power BI
 I love finding useful business insights drawn from data! Experience in data cleaning,
 statistical modeling, data transforming, and creating insightful dashboards!
